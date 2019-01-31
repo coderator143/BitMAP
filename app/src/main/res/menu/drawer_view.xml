@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:checkableBehavior="all">
+        <item
+            android:id="@+id/nav_hostel"
+            android:icon="@drawable/hostels"
+            android:title="HOSTELS" />
+        <item
+            android:id="@+id/nav_ground"
+            android:icon="@drawable/groundsssss"
+            android:title="GROUNDS" />
+        <item
+            android:id="@+id/nav_academic"
+            android:icon="@drawable/academicb1"
+            android:title="ACADEMIC" />
+        <item
+            android:id="@+id/nav_food"
+            android:icon="@drawable/dhaba"
+            android:title="KHANA KHAZANA" />
+        <item
+            android:id="@+id/nav_money"
+            android:icon="@drawable/bank"
+            android:title="MONEY" />
+        <item
+            android:id="@+id/nav_misc"
+            android:icon="@drawable/misc"
+            android:title="MISC" />
+    </group>
+</menu>
