@@ -15,7 +15,7 @@ app for especially BIT students. Enabling navigation is still at work,so please 
 
 ## Getting started
 
-You can clone the project or download the ZIP folder at the link given at the bottom of the readme.
+You can clone the project or download the ZIP folder.
 
 ### Prerequisites
 
