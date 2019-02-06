@@ -23,8 +23,15 @@ You can clone the project or download the ZIP folder.
 Android Studio 3.0 or higher
 Git 1.8.5.6 or higher
 A little knowledge of JAVA!
+API Key
 ```
 
+###How to generate API key
+
+1) To generate API you need to have a Google Developer Console Account which is your gmail account.
+2) You need to create an API key and enable PlacesAPI , DirectionsAPI and GoogleMapsSDK.
+3) Add your project package name and SHA1 key.
+4) To get SHA1 key in Android Studio goto gradle option on right side , goto to app , then android and double click signningreport.  
 ## Built With
 
 Android Studio
